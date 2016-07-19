@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700);
-
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
 #load-screen {
   display: flex;
   justify-content: center;
@@ -410,10 +409,7 @@ opacity: 0.0;}
 }
 
 .thanks h1 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 50px;
-  font-weight: 700;
+  font-family: 'Sacramento', cursive;  font-size: 50px;
   text-align: center;
-  text-transform: uppercase;
   margin-top: -100px;
 }
