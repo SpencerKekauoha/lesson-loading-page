@@ -397,10 +397,12 @@ opacity: 0.0;}
 
 .pics-container img {
   height: 20vh;
+	transition: all .3s ease-in-out;
 }
 
-.pics img:hover {
-  opacity: .7;
+.pics-container img:hover {
+	opacity: .7;
+  cursor: crosshair;
 }
 
 .thanks {
