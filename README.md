@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# lesson-loading-page
+
+>>>>>>> 973025400559860ce7fa7d1322bff2027348ea8a
 Creating a loading screen that display a loading image, gif, or video that will display until the
 webpages content has loaded.
 
