@@ -1,3 +1,5 @@
+# lesson-loading-page
+
 Creating a loading screen that display a loading image, gif, or video that will display until the
 webpages content has loaded.
 
